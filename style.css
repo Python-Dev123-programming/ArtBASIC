@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(222, 222, 222);
+}
+
+#title-container {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    border-radius: 5px;
+    background-color: rgb(245, 245, 245);
+}
+
+#version {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(235, 235, 235);
+    border-radius: 5px;
+}
+
+#example {
+    font-family: 'Consolas';
+    background-color: rgb(0, 0, 0);
+    color: green;
+    border-radius: 5px;
+}
+
+#information {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 5px;
+    background-color: rgb(245, 245, 245);
+}
+
+#features {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 5px;
+    background-color: rgb(245, 245, 245);
+}
+
+#download {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 5px;
+    background-color: rgb(245, 245, 245);
+}
+
+#more_information {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 5px;
+    background-color: rgb(245, 245, 245);
+    text-align: center;
+    font-size: small;
+}
